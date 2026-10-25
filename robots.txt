@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gethalalfoods.com/sitemap.xml
